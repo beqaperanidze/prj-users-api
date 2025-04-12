@@ -2,9 +2,6 @@
 using UserManagementApi.Data;
 using UserManagementApi.Models;
 
-// Import your Data namespace
-// Import your Models namespace
-
 namespace UserManagementApi.Controllers;
 
 [ApiController]
